@@ -4,8 +4,10 @@
 ## 1 - Clonar o reposítório:
 * git clone https://github.com/eduardanevesphilips/yes-bank-microfrontend.git
 
-
-## 2 - Entrar na pasta raiz do projeto cd yes-bank-microfrontend e executar o comando 'npm run serve' ou executar com o docker: 'docker-compose up --build'
+`
+## 2 - Entrar na pasta raiz do projeto cd yes-bank-microfrontend e executar o comando
+`npm run serve`
+ou executar com o docker: 'docker-compose up --build'
 
 
 # Explicação dos arquivos de configuração: `next.config.js`
