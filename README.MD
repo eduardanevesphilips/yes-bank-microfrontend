@@ -8,7 +8,8 @@
 ## 2 - Entrar na pasta raiz do projeto cd yes-bank-microfrontend e executar o comando
 `npm run serve`
 
-ou executar com o docker: 'docker-compose up --build'
+ou executar com o docker: 
+`docker-compose up --build`
 
 
 # Explicação dos arquivos de configuração: `next.config.js`
