@@ -85,4 +85,6 @@ database.db
 
 
 # Ignore uploads folder inside public directory
-/public/uploads/
+# /public/uploads/
+/public/uploads/*
+!/public/uploads/.gitkeep
