@@ -9,6 +9,7 @@
 `npm run serve`
 
 ou executar com o docker: 
+
 `docker-compose up --build`
 
 
