@@ -13,6 +13,11 @@ ou executar com o docker:
 `docker-compose up --build`
 
 
+# Biblioteca de components criada para ser utilizada entre os microfrontends: [YesBankComponents](https://github.com/eduardanevesphilips/yes-bank-components)
+
+# Uso do redux dentro da biblioteca [YesBankComponents](https://github.com/eduardanevesphilips/yes-bank-components/blob/main/src/components/container/Container.tsx#L45)
+
+
 # Explicação dos arquivos de configuração: `next.config.js`
 
 * 1 - Importação do plugin:
